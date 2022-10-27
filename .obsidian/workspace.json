@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essay Notes/Comparison and Contrast Planning MD.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essay Notes/Comparison and Contrast Planning MD.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +102,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essay Notes/Comparison and Contrast Planning MD.md",
-                "linksCollapsed": true,
+                "file": "README.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essay Notes/Comparison and Contrast Planning MD.md"
+                "file": "README.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,12 +155,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fe9fb96a9b73a171",
+  "active": "a3147e8e57d2f0a9",
   "lastOpenFiles": [
     "2022-10-26.md",
-    "Essay Notes/Comparison and Contrast Planning MD.md",
-    "Untitled.md",
     "TODO.md",
+    "Untitled.md",
+    "README.md",
+    "Essay Notes/Comparison and Contrast Planning MD.md",
     "Untitled/Math.md",
     "2022-10-23.md"
   ]
