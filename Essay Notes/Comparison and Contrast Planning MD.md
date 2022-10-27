@@ -7,7 +7,7 @@
 | LOTF & The 100 S&D to how the kids react | LOTF & 100 S&D between how they first react | LOTF & The 100 S&D between the characters, and compare them to their opposite counterpart. | LOTF & The 100 S&D on where they take place |
 
 > [!info]
-> S&D is my abberivation of Similarities and Differences, used them to save space on this table.
+> S&D is my abberivation. of Similarities and Differences, used them to save space on this table.
 
 > What are the 3 main points that will support your Main Idea/Thesis? (These should be previewed in your introduction and serve as paragraph ideas within the body of your paragraph)
 
@@ -38,7 +38,7 @@
   > Wells:    No! Don't do this! Don't do this! No. No! Come on, man. Aah!
 
 > [!note]
-> In this quote,
+> In this quote, Bellamy is using his weapon, like Jack did with his knife, in order to threathen Wells into forcing him to do something. Bellamy is already starting to become our Jack in this scene, how he is trying to be violent with him, how he inflicts pain onto him along with him bullying Wells because of Bellamy's disdain for Wells' dad.
 
 LOTF pg 164
 
@@ -56,3 +56,4 @@ LOTF pg 164
 > Ralph too was fighting to get near, to get a handful of that brown, vulnerable flesh. The desire to squeeze and hurt was over-mastering. Jack’s arm came down; the heaving circle cheered and made pig-dying noises. Then they lay quiet, panting, listening to Robert’s frightened snivels. He wiped his face with a dirty arm, and made an effort to retrieve his status.
 
 > [!INFO]
+> Pay attention to how the group is attacking Robert, as if he was a pig. Look at how even if they were playing, they were still inflicting pain onto Robert for fun.
