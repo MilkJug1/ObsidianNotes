@@ -1,3 +1,5 @@
+# LOTF and "The 100" Comparsion and Contrast Essay
+
 - Organizational strategy is a bit of both block and point to point.
 - Main Thesis is:
    *LOTF & "The 100" both show the savage and barbaric side of human nature when the rules and structure of civilization are gone.*
@@ -23,7 +25,8 @@
 > [!note]
 > Remember that nothing special has to be put down for the quotes for "The 100"
 
-## Quotes 
+## Quotes
+
 - Quote 1: *The 100*
   
   > Wells:    Mmph…
@@ -67,18 +70,55 @@
 
 - The notion of the effect of being changed from not being under society's rule and how it affects each character individually.
 
-- Due to how the stories are very similar in the way they handle characters and the de-evolution of the characters
+
+# Body paragraph II
+
+> **Note**
+> Stop using "we" and start using stuff that can fill in that blank, since this is an essay, no pronouns refrencing the reader.
 
 ### Topic Sentence of the first body paragraph
 
- Without the structure and grasp that society hold on us, we would devolve into savage, crazed beasts that kill people and things for fun. This happen a lot in both stories as it is evident that  multiple people get violently abused by the group of kids, and this happens especially in Lord of the Flies when it shows the group killing multiple people later in the story. *LIST LOTF 164 here*
+ Without the structure and grasp that society hold on us, we would devolve into savage, crazed beasts that kill people and things for fun. This happen a lot in both stories as it is evident that  multiple people get violently abused by the group of kids, and this happens especially in Lord of the Flies when it shows the group killing multiple people later in the story.
 
 ### Supporting Detail # 1
+
 It is evident from both pieces of material that without the tight structure that society gives us, can and will make people slowly start to have their true nature and violent side/tendencies to eagerly come out.
 
+ ### Text Evidence
+> They got his arms and legs. Ralph, carried away by a sudden thick excitement, grabbed Eric’s spear and jabbed at Robert with it.
+> “Kill him! Kill him!”
+> All at once, Robert was screaming and struggling with the strength of frenzy. Jack had him by the hair and was brandishing his knife. Behind him was Roger, fighting to get close. The chant rose ritually, as at the last moment of a dance or a hunt.
 
-### Supporting Detail # 2
-The more time a single person is away from societal rule, and succumb to their violent tendencies, they will slowly start to lose parts of their built up identity. The more one kills, they will become numb from said killing after enough. 
+> Expanded Detail of text evidence
 
-	- Text evidence w/page num
-	
+- Here it is evident that this violent scene of the boys poking and jabbing Robert with sharp sticks and spears, is special because it shows the devolution of the group of kids in Lord of the Flies, something that will be evident later in "The 100".
+
+- ### Supporting Detail # 2
+
+The more time a single person is away from societal rule, and succumb to their violent tendencies, they will slowly start to lose parts of their built up identity. The more one kills, they will become numb from said killing after enough.
+
+- Text evidence w/page num
+  - (Transcript)
+
+  > Callie Abby, what's wrong?
+  > Abby The Chancellor has been shot.
+
+  > Shumway:
+  > Excuse me, sir. You asked to be notified if there was
+  > news. The Chancellor is still in surgery, but we have
+  > I.D.ed the shooter. Bellamy Blake is the only person on
+  > The Ark unaccounted for.
+  > Kane: Who is he?
+  > Shumway :He's no one, a janitor. We're still working up a profile, but his motive for going to Earth is clear.
+
+  > *Later in the transcript*
+  > Bellamy:    I have my reasons. I also have the gun. So I ask the questions, and the question is, why aren't you helping me? Your dad banished you, Wells, and yet here you are, still doing his bidding, following the rules. Aren't you tired of always doing what's expected of you?
+
+#### Expanded detail of text evidence
+
+- Just after the Chancellor got shot, the first recorded shed of blood in "The 100" that is seen, starts to show the downfall of the character Bellamy, who is the most closest to Jack in terms of personality and how they both act. This set up the next part where Bellamy is starting to threaten Wells into doing his bidding,
+
+
+### Transition Sentence
+ 
+
