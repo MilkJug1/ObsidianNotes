@@ -23,6 +23,7 @@
 > [!note]
 > Remember that nothing special has to be put down for the quotes for "The 100"
 
+## Quotes 
 - Quote 1: *The 100*
   
   > Wells:    Mmph…
@@ -40,7 +41,7 @@
 > [!note]
 > In this quote, Bellamy is using his weapon, like Jack did with his knife, in order to threathen Wells into forcing him to do something. Bellamy is already starting to become our Jack in this scene, how he is trying to be violent with him, how he inflicts pain onto him along with him bullying Wells because of Bellamy's disdain for Wells' dad.
 
-LOTF pg 164
+ LOTF pg 164
 
 > Presently they were all jabbing at Robert who made mock rushes.
 > Jack shouted.
@@ -64,10 +65,20 @@ LOTF pg 164
 
 - The way the characters act so similarity due to the effect the island is giving them.
 
-- The notion of the effect of being changed from not being under society's rule and how it affects each character induviually.
+- The notion of the effect of being changed from not being under society's rule and how it affects each character individually.
 
 - Due to how the stories are very similar in the way they handle characters and the de-evolution of the characters
 
 ### Topic Sentence of the first body paragraph
 
- Without the structure and grasp that society hold on us, we would devolve into savage, crazed beasts that kill people and things for fun. We see this happen a lot in both stories as we can see multiple people get violently abused by a group of kids, and espcially in Lord of the Flies we see the group killing multiple people later in the story. *LIST LOTF 164 here*
+ Without the structure and grasp that society hold on us, we would devolve into savage, crazed beasts that kill people and things for fun. This happen a lot in both stories as it is evident that  multiple people get violently abused by the group of kids, and this happens especially in Lord of the Flies when it shows the group killing multiple people later in the story. *LIST LOTF 164 here*
+
+### Supporting Detail # 1
+It is evident from both pieces of material that without the tight structure that society gives us, can and will make people slowly start to have their true nature and violent side/tendencies to eagerly come out.
+
+
+### Supporting Detail # 2
+The more time a single person is away from societal rule, and succumb to their violent tendencies, they will slowly start to lose parts of their built up identity. The more one kills, they will become numb from said killing after enough. 
+
+	- Text evidence w/page num
+	
