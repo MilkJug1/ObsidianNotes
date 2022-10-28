@@ -1,5 +1,5 @@
 - Organizational strategy is a bit of both block and point to point.
-- Main Thesis is: 
+- Main Thesis is:
    *LOTF & "The 100" both show the savage and barbaric side of human nature when the rules and structure of civilization are gone.*
 
 | Point 1                                  | Point 2                                     | Point 3                                                                                    | Point 4                                     |
@@ -21,7 +21,7 @@
 > What text evidence from the story and movie will be used to support your main idea/thesis or main points? (Include page numbers from the story)
 
 > [!note]
->  Remember that nothing special has to be put down for the quotes for "The 100"
+> Remember that nothing special has to be put down for the quotes for "The 100"
 
 - Quote 1: *The 100*
   
@@ -46,14 +46,28 @@ LOTF pg 164
 > Jack shouted.
 > “Make a ring!”
 > The circle moved in and round. Robert squealed in mock terror, then in real pain.
-> “Ow! Stop it! You’re hurting!” 
+> “Ow! Stop it! You’re hurting!”
 > The butt end of a spear fell on his back as he blundered among them.
-> “Hold him!” 
+> “Hold him!”
 > They got his arms and legs. Ralph, carried away by a sudden thick excitement, grabbed Eric’s spear and jabbed at Robert with it.
 > “Kill him! Kill him!”
-> All at once, Robert was screaming and struggling with the strength of frenzy. Jack had him by the hair and was brandishing his knife. Behind him was Roger, fighting to get close. The chant rose ritually, as at the last moment of a dance or a hunt. 
-> “Kill the pig! Cut his throat! Kill the pig! Bash him in!” 
+> All at once, Robert was screaming and struggling with the strength of frenzy. Jack had him by the hair and was brandishing his knife. Behind him was Roger, fighting to get close. The chant rose ritually, as at the last moment of a dance or a hunt.
+> “Kill the pig! Cut his throat! Kill the pig! Bash him in!”
 > Ralph too was fighting to get near, to get a handful of that brown, vulnerable flesh. The desire to squeeze and hurt was over-mastering. Jack’s arm came down; the heaving circle cheered and made pig-dying noises. Then they lay quiet, panting, listening to Robert’s frightened snivels. He wiped his face with a dirty arm, and made an effort to retrieve his status.
 
 > [!INFO]
 > Pay attention to how the group is attacking Robert, as if he was a pig. Look at how even if they were playing, they were still inflicting pain onto Robert for fun.
+
+## Main points
+
+- How both materials present the idea of human nature slowly becoming more savage when society has no rule.
+
+- The way the characters act so similarity due to the effect the island is giving them.
+
+- The notion of the effect of being changed from not being under society's rule and how it affects each character induviually.
+
+- Due to how the stories are very similar in the way they handle characters and the de-evolution of the characters
+
+### Topic Sentence of the first body paragraph
+
+ Without the structure and grasp that society hold on us, we would devolve into savage, crazed beasts that kill people and things for fun. We see this happen a lot in both stories as we can see multiple people get violently abused by a group of kids, and espcially in Lord of the Flies we see the group killing multiple people later in the story. *LIST LOTF 164 here*
