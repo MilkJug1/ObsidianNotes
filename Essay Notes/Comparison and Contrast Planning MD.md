@@ -6,13 +6,13 @@ Decided to type this out because I wanted to be actually able read them and use 
 - Main Thesis is:
    *LOTF & "The 100" both show the savage and barbaric side of human nature when the rules and structure of civilization are gone.*
 
-> **Info** 
+> **Note** 
 > Please disregard this table below, as it is not indictive of the true planning, pleas go down to the Main Points section for this instead.
 | Point 1                                  | Point 2                                     | Point 3                                                                                    | Point 4                                     |
 | ---------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------- |
 | LOTF & The 100 S&D to how the kids react | LOTF & 100 S&D between how they first react | LOTF & The 100 S&D between the characters, and compare them to their opposite counterpart. | LOTF & The 100 S&D on where they take place |
 
-> **Info**
+> **Note**
 > S&D is my abbreviation. of Similarities and Differences, used them to save space on this table.
 
 > What are the 3 main points that will support your Main Idea/Thesis? (These should be previewed in your introduction and serve as paragraph ideas within the body of your paragraph)
@@ -62,7 +62,7 @@ Decided to type this out because I wanted to be actually able read them and use 
 > “Kill the pig! Cut his throat! Kill the pig! Bash him in!”
 > Ralph too was fighting to get near, to get a handful of that brown, vulnerable flesh. The desire to squeeze and hurt was over-mastering. Jack’s arm came down; the heaving circle cheered and made pig-dying noises. Then they lay quiet, panting, listening to Robert’s frightened snivels. He wiped his face with a dirty arm, and made an effort to retrieve his status.
 
-> **Info**
+> **Note**
 > LOTF pg 164
 > Pay attention to how the group is attacking Robert, as if he was a pig. Look at how even if they were playing, they were still inflicting pain onto Robert for fun.
 
