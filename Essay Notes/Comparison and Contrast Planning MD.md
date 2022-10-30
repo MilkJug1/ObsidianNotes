@@ -15,7 +15,8 @@ Decided to type this out because I wanted to be actually able read them and use 
 
 > **Note**
 > S&D is my abbreviation. of Similarities and Differences, used them to save space on this table.
-
+>
+>
 > What are the 3 main points that will support your Main Idea/Thesis? (These should be previewed in your introduction and serve as paragraph ideas within the body of your paragraph)
 
 - In both LOTF & the 100, the kids all had a similar mindset, how they were so native that they thought this was going to be a fun and relaxing adventure, but they eventually succumbed to the effects on the Island.
@@ -26,7 +27,7 @@ Decided to type this out because I wanted to be actually able read them and use 
   - Think about how violent Jack gets in the story to a point where he has a confirmed kill count of 2, and how cult-like the kids get in "The 100"
 
 > What text evidence from the story and movie will be used to support your main idea/thesis or main points? (Include page numbers from the story)
-
+>
 > **Note**
 > Remember that nothing special has to be put down for the quotes for "The 100"
 
@@ -36,28 +37,28 @@ Decided to type this out because I wanted to be actually able read them and use 
   
   > Wells:    Mmph…
   >
-  > Bellamy:    Shh. Shh. That's far enough. I don't want to shoot you, Wells, hell, I like you, but I do need them to think that you're dead.
+  > Bellamy: Shh. Shh. That's far enough. I don't want to shoot you, Wells, hell, I like you, but I do need them to think that you're dead.
   >
-  > Wells:    Why? Why are you doing this, for real, not some crap about getting to do what you want to do?
+  > Wells: Why? Why are you doing this, for real, not some crap about getting to do what you want to do?
   >
-  > Bellamy:    I have my reasons. I also have the gun. So I ask the questions, and the question is, why aren't you helping me? Your dad banished you, Wells, and yet here you are, still doing his bidding, following the rules. Aren't you tired of always doing what's expected of you? Stand up to him. Take off that wristband, and you'll be amazed at how good it feels.
+  > Bellamy:  I have my reasons. I also have the gun. So I ask the questions, and the question is, why aren't you helping me? Your dad banished you, Wells, and yet here you are, still doing his bidding, following the rules. Aren't you tired of always doing what's expected of you? Stand up to him. Take off that wristband, and you'll be amazed at how good it feels.
   >
-  > Wells:    No. Never. Not gonna happen. Is that clear enough for you?
+  > Wells: No. Never. Not gonna happen. Is that clear enough for you?
   >
-  > Bellamy:    Yeah. It is. I'm sorry it had to be this way.
+  > Bellamy: Yeah. It is. I'm sorry it had to be this way.
   >
-  > Wells:    No! No! Get off of me! No!
+  > Wells: No! No! Get off of me! No!
   >
-  > Bellamy:    Get him down. Put him down.
+  > Bellamy: Get him down. Put him down.
   >
   > Wells: No! Come on, man. Let me go.
   >
-  > Bellamy:    Get it. Do it.
+  > Bellamy: Get it. Do it.
   >
-  > Wells:    No! Don't do this! Don't do this! No. No! Come on, man. Aah!
+  > Wells: No! Don't do this! Don't do this! No. No! Come on, man. Aah!
 
 **Note**
- In this quote, Bellamy is using his weapon, like Jack did with his knife, in order to threathen Wells into forcing him to do something. Bellamy is already starting to become our Jack in this scene, how he is trying to be violent with him, how he inflicts pain onto him along with him bullying Wells because of Bellamy's disdain for Wells' dad.
+ In this quote, Bellamy is using his weapon, like Jack did with his knife, in order to threaten Wells into forcing him to do something. Bellamy is already starting to become our Jack in this scene, how he is trying to be violent with him, how he inflicts pain onto him along with him bullying Wells because of Bellamy's disdain for Wells' dad.
  This note will be used again, though shorted by a bit later in the body paragraphs as is seen below.
 >
 > Presently they were all jabbing at Robert who made mock rushes.
