@@ -196,8 +196,8 @@ it starts to show the decline of the kids. This is more apparent when the kids s
   >
   > He snatched his knife out of the sheath and slammed it into a tree trunk. **Next time there would be no mercy**
   >
-  >**Note**
-  > I italicized a part of that quote because it will be important once I start to write, since it shows and setups up something later in the book.
+  **Note**
+   I italicized a part of that quote because it will be important once I start to write, since it shows and setups up something later in the book.
   >
   > Pg 96-97
   > “Kill the pig. Cut her throat. Spill her blood.”
