@@ -56,9 +56,9 @@ Decided to type this out because I wanted to be actually able read them and use 
   >
   > Wells:    No! Don't do this! Don't do this! No. No! Come on, man. Aah!
 
-> **Note**
-> In this quote, Bellamy is using his weapon, like Jack did with his knife, in order to threathen Wells into forcing him to do something. Bellamy is already starting to become our Jack in this scene, how he is trying to be violent with him, how he inflicts pain onto him along with him bullying Wells because of Bellamy's disdain for Wells' dad.
-> This note will be used again, though shorted by a bit later in the body paragraphs as is seen below.
+**Note**
+ In this quote, Bellamy is using his weapon, like Jack did with his knife, in order to threathen Wells into forcing him to do something. Bellamy is already starting to become our Jack in this scene, how he is trying to be violent with him, how he inflicts pain onto him along with him bullying Wells because of Bellamy's disdain for Wells' dad.
+ This note will be used again, though shorted by a bit later in the body paragraphs as is seen below.
 >
 > Presently they were all jabbing at Robert who made mock rushes.
 >
