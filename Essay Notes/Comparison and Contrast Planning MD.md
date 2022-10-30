@@ -111,8 +111,7 @@ The more time a single person is away from societal rule, and succumb to their v
 
 
 ### Transition Sentence
-In both of these 2 pieces of of text shows that even though that both of the stories take place in entiretly different times, they both succumb very similar to man's savage nature, this could be in part of the island doing something to them or just
-man's nature showing its true colors.
+In both of these 2 pieces of text shows that even though that both of the stories take place in entiretly different times, both types of characters succumb to very similar ways of becoming a savage that is indictive of human's violent nature. This could be inpart due to the type of affect that the island has on the kids.
 
 # Topic Sentence of the ***second*** body paragraph:
 In the de-evolution of each character inside of the texts, it is evident that the island has had some form of an affect on the characters as if the island was a character, as it is described and talked about as one.
@@ -172,9 +171,6 @@ it starts to show the decline of the kids. This is more apparent when the kids s
   The island does have an affect on these kids, but not as much as some other stuff is factored into this.
 
 # Topic Sentence of the ***Third*** body paragraph.
- 
-
-
 
 
 
