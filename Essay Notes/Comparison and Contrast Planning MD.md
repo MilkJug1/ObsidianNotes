@@ -8,6 +8,7 @@ Decided to type this out because I wanted to be actually able read them and use 
 
 > **Note** 
 > Please disregard this table below, as it is not indictive of the true planning, pleas go down to the Main Points section for this instead.
+
 | Point 1                                  | Point 2                                     | Point 3                                                                                    | Point 4                                     |
 | ---------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------- |
 | LOTF & The 100 S&D to how the kids react | LOTF & 100 S&D between how they first react | LOTF & The 100 S&D between the characters, and compare them to their opposite counterpart. | LOTF & The 100 S&D on where they take place |
