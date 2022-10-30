@@ -1,15 +1,19 @@
+# Comparison and Contrasting Essay Notes
+
+Decided to type this out because I wanted to be actually able read them and use them. Uhh, its a bit messy here but after a while it should start getting a bit much better in terms of organizing stuff
+
 - Organizational strategy is a bit of both block and point to point.
 - Main Thesis is:
    *LOTF & "The 100" both show the savage and barbaric side of human nature when the rules and structure of civilization are gone.*
 
-> **INFO** 
+> **Info** 
 > Please disregard this table below, as it is not indictive of the true planning, pleas go down to the Main Points section for this instead.
 | Point 1                                  | Point 2                                     | Point 3                                                                                    | Point 4                                     |
 | ---------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------- |
 | LOTF & The 100 S&D to how the kids react | LOTF & 100 S&D between how they first react | LOTF & The 100 S&D between the characters, and compare them to their opposite counterpart. | LOTF & The 100 S&D on where they take place |
 
-> **INFO**
-> S&D is my abberivation. of Similarities and Differences, used them to save space on this table.
+> **Info**
+> S&D is my abbreviation. of Similarities and Differences, used them to save space on this table.
 
 > What are the 3 main points that will support your Main Idea/Thesis? (These should be previewed in your introduction and serve as paragraph ideas within the body of your paragraph)
 
@@ -22,7 +26,7 @@
 
 > What text evidence from the story and movie will be used to support your main idea/thesis or main points? (Include page numbers from the story)
 
-> **NOTE**
+> **Note**
 > Remember that nothing special has to be put down for the quotes for "The 100"
 
 ## Quotes 
@@ -40,7 +44,7 @@
   > Bellamy:    Get it. Do it.
   > Wells:    No! Don't do this! Don't do this! No. No! Come on, man. Aah!
 
-> **NOTE**
+> **Note**
 > In this quote, Bellamy is using his weapon, like Jack did with his knife, in order to threathen Wells into forcing him to do something. Bellamy is already starting to become our Jack in this scene, how he is trying to be violent with him, how he inflicts pain onto him along with him bullying Wells because of Bellamy's disdain for Wells' dad.
 > This note will be used again, though shorted by a bit later in the body paragraphs as is seen below.
 
@@ -58,7 +62,7 @@
 > “Kill the pig! Cut his throat! Kill the pig! Bash him in!”
 > Ralph too was fighting to get near, to get a handful of that brown, vulnerable flesh. The desire to squeeze and hurt was over-mastering. Jack’s arm came down; the heaving circle cheered and made pig-dying noises. Then they lay quiet, panting, listening to Robert’s frightened snivels. He wiped his face with a dirty arm, and made an effort to retrieve his status.
 
-> **INFO**
+> **Info**
 > LOTF pg 164
 > Pay attention to how the group is attacking Robert, as if he was a pig. Look at how even if they were playing, they were still inflicting pain onto Robert for fun.
 
@@ -72,7 +76,7 @@
 
 ~~- Due to how the stories are very similar in the way they handle characters and the de-evolution of the characters~~
 
-### Topic Sentence of the first body paragraph
+# Topic Sentence of the ***first*** body paragraph
 
  Without the structure and grasp that society hold on us, we would devolve into savage, crazed beasts that kill people and things for fun. This happen a lot in both stories as it is evident that  multiple people get violently abused by the group of kids, and this happens especially in Lord of the Flies when it shows the group killing multiple people later in the story. *LIST LOTF 164 here*
 
@@ -109,7 +113,7 @@ The more time a single person is away from societal rule, and succumb to their v
 In both of these 2 pieces of of text shows that even though that both of the stories take place in entiretly different times, they both succumb very similar to man's savage nature, this could be in part of the island doing something to them or just
 man's nature showing its true colors.
 
-# Topic Sentence of the second body paragraph:
+# Topic Sentence of the ***second*** body paragraph:
 In the de-evolution of each character inside of the texts, it is evident that the island has had some form of an affect on the characters as if the island was a character, as it is described and talked about as one.
 
 
@@ -142,7 +146,7 @@ it starts to show the decline of the kids. This is more apparent when the kids s
   > "I was going to," said Jack. He was ahead of them, and they could not see his face. "I was choosing a place. Next time --!"
   > He snatched his knife out of the sheath and slammed it into a tree trunk. **Next time there would be no mercy**
 
-  >**NOTE**
+  >**Note**
   > I italicized a part of that quote because it will be important once I start to write, since it shows and setups up something later in the book.
 
   > Pg 96-97
@@ -166,7 +170,8 @@ it starts to show the decline of the kids. This is more apparent when the kids s
   From both stories, the island may have had an affect on the kids' mental wellbeing and more to get them to this state, it is not the sole reason for *why* they are starting to succumb to becoming savages.
   The island does have an affect on these kids, but not as much as some other stuff is factored into this.
 
-#
+# Topic Sentence of the ***Third*** body paragraph.
+ 
 
 
 
