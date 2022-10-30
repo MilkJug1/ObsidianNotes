@@ -35,34 +35,55 @@ Decided to type this out because I wanted to be actually able read them and use 
 - Quote 1: *The 100*
   
   > Wells:    Mmph…
+  >
   > Bellamy:    Shh. Shh. That's far enough. I don't want to shoot you, Wells, hell, I like you, but I do need them to think that you're dead.
+  >
   > Wells:    Why? Why are you doing this, for real, not some crap about getting to do what you want to do?
+  >
   > Bellamy:    I have my reasons. I also have the gun. So I ask the questions, and the question is, why aren't you helping me? Your dad banished you, Wells, and yet here you are, still doing his bidding, following the rules. Aren't you tired of always doing what's expected of you? Stand up to him. Take off that wristband, and you'll be amazed at how good it feels.
+  >
   > Wells:    No. Never. Not gonna happen. Is that clear enough for you?
+  >
   > Bellamy:    Yeah. It is. I'm sorry it had to be this way.
+  >
   > Wells:    No! No! Get off of me! No!
+  >
   > Bellamy:    Get him down. Put him down.
+  >
   > Wells: No! Come on, man. Let me go.
+  >
   > Bellamy:    Get it. Do it.
+  >
   > Wells:    No! Don't do this! Don't do this! No. No! Come on, man. Aah!
 
 > **Note**
 > In this quote, Bellamy is using his weapon, like Jack did with his knife, in order to threathen Wells into forcing him to do something. Bellamy is already starting to become our Jack in this scene, how he is trying to be violent with him, how he inflicts pain onto him along with him bullying Wells because of Bellamy's disdain for Wells' dad.
 > This note will be used again, though shorted by a bit later in the body paragraphs as is seen below.
-
+>
 > Presently they were all jabbing at Robert who made mock rushes.
+>
 > Jack shouted.
+>
 > “Make a ring!”
+>
 > The circle moved in and round. Robert squealed in mock terror, then in real pain.
+>
 > “Ow! Stop it! You’re hurting!”
+>
 > The butt end of a spear fell on his back as he blundered among them.
+>
 > “Hold him!”
+>
 > They got his arms and legs. Ralph, carried away by a sudden thick excitement, grabbed Eric’s spear and jabbed at Robert with it.
+>
 > “Kill him! Kill him!”
+>
 > All at once, Robert was screaming and struggling with the strength of frenzy. Jack had him by the hair and was brandishing his knife. Behind him was Roger, fighting to get close. The chant rose ritually, as at the last moment of a dance or a hunt.
+>
 > “Kill the pig! Cut his throat! Kill the pig! Bash him in!”
+>
 > Ralph too was fighting to get near, to get a handful of that brown, vulnerable flesh. The desire to squeeze and hurt was over-mastering. Jack’s arm came down; the heaving circle cheered and made pig-dying noises. Then they lay quiet, panting, listening to Robert’s frightened snivels. He wiped his face with a dirty arm, and made an effort to retrieve his status.
-
+>
 > **Note**
 > LOTF pg 164
 > Pay attention to how the group is attacking Robert, as if he was a pig. Look at how even if they were playing, they were still inflicting pain onto Robert for fun.
