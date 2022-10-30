@@ -84,9 +84,9 @@ Decided to type this out because I wanted to be actually able read them and use 
 >
 > Ralph too was fighting to get near, to get a handful of that brown, vulnerable flesh. The desire to squeeze and hurt was over-mastering. Jack’s arm came down; the heaving circle cheered and made pig-dying noises. Then they lay quiet, panting, listening to Robert’s frightened snivels. He wiped his face with a dirty arm, and made an effort to retrieve his status.
 >
-> **Note**
-> LOTF pg 164
-> Pay attention to how the group is attacking Robert, as if he was a pig. Look at how even if they were playing, they were still inflicting pain onto Robert for fun.
+ **Note**
+ LOTF pg 164
+ Pay attention to how the group is attacking Robert, as if he was a pig. Look at how even if they were playing, they were still inflicting pain onto Robert for fun.
 
 ## Main points
 
