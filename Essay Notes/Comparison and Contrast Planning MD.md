@@ -144,7 +144,7 @@ In the de-evolution of each character inside of the texts, it is evident that th
 
 ## Supporting Point #1
 
-When the kids in the "The 100" first got to the island, after a while its evident that all of the kids immediatly start to change rapidly due to the effects of the island, for example when the kids are writing that Wells will die(spelled as dye)
+When the kids in the "The 100" first got to the island, after a while its evident that all of the kids immediately start to change rapidly due to the effects of the island, for example when the kids are writing that Wells will die(spelled as dye)
 it starts to show the decline of the kids. This is more apparent when the kids start to become more cult-like.
 
 ### Text Evidence w/ page num
@@ -232,4 +232,4 @@ it starts to show the decline of the kids. This is more apparent when the kids s
 
 # Concluding Paragraph
 
-It is evident that in both of the stories, that they both tell a very similar tale. In terms of settings, the actions of each kid and how they are affected from not being under society's rule and from the island, to just how the kids are changing by the minute. Though that both of these materials are a bit different in terms of certain things, like "The 100" is taking place after a nuclear fallout that lasted more than 90 years, their reasoning for coming back to Earth was to make sure that, A it was safe to come back, and B that they can survive since they were starting to run out of resources very quickly.
+It is evident that in both of the stories, that they both tell a very similar tale. In terms of settings, the actions of each kid and how they are affected from not being under society's rule and from the island, to just how the kids are changing by the minute. Though that both of these materials are a bit different in terms of certain things, like "The 100" is taking place after a nuclear fallout that lasted more than 90 years, their reasoning for coming back to Earth was to make sure that, A it was safe to come back, and B that they can survive since they were starting to run out of resources very quickly. While in Lord of the Flies, it mainly took place during WWII, which show that both stories took place either during or after a massive war. Lord of the Flies & "The 100" both show the savage and barbaric side of human nature when the rules and structure of civilization are gone.
