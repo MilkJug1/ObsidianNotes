@@ -1,1 +1,0 @@
-- [ ] Try to work on a small little project that is written in CPP or Rust to get back into programming, espcially with classes  
