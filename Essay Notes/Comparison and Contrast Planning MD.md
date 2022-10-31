@@ -230,7 +230,47 @@ it starts to show the decline of the kids. This is more apparent when the kids s
   The island does have an affect on these kids, but not as much as some other stuff is factored into this.
 
 # Topic Sentence of the ***Third*** body paragraph
+
 As it is seen in both materials, all kids are affected by the island and from being without society's rule, but the way each kid becomes a savage and succumbs to human's savage nature, affects each kid differently and take a different amount of time.
+
+## Supporting Detail #1 for 3rd paragraph
+
+- Certain kids were never even affected by the island or from not being under society's rule, Piggy, the one voice that was the most closest to adult society, really never showed any forms of converting into a savage, until the end. This is in contrast to how character, Jack who started immediately changing the moment he got a knife.
+
+### Text Evidence
+
+> “Ralph! Stop laughing like that. Look, there ain’t no need, Ralph!
+>
+>What’s the others going to think?”
+>
+>At last Ralph stopped. He was shivering.
+>
+>“Piggy.”
+>
+>“Uh?”
+>
+>“That was Simon.”
+>
+>“You said that before.”
+>
+>“Piggy.”
+>
+>“Uh?”
+>
+>“That was murder.”
+>
+>“You stop it!” said Piggy, shrilly. “What good’re you doing talking like that?”
+> He jumped to his feet and stood over Ralph.
+>
+>“It was dark. There was that—that bloody dance.
+
+#### Expanded Detail of Text Evidence for body paragraph 3
+
+- This quote shows that after Simon died, Ralph suffering mentally from that, and Piggy, the voice of reason and the most connected to Adult society, starting to downplay his death. Something that is unheard of Piggy to do, but shows that even he is starting to change and be affected from the island.
+As earlier we always saw that Piggy was one always unaffected from not being under society's rule, since he was always the one to focus on trying to get rescued, and because of this sudden change of character of him downplaying death of another peer, is bold since it shows that everyone, once not under the rule of society will start to change but its about how it changes them which is important.
+
+## Supporting point #2 for body para 3 
+- 
 
 # Concluding Paragraph
 
