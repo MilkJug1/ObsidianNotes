@@ -232,7 +232,6 @@ it starts to show the decline of the kids. This is more apparent when the kids s
 # Topic Sentence of the ***Third*** body paragraph
 As it is seen in both materials, all kids are affected by the island and from being without society's rule, but the way each kid becomes a savage and succumbs to human's savage nature, affects each kid differently and take a different amount of time.
 
-
 # Concluding Paragraph
 
 It is evident that in both of the stories, that they both tell a very similar tale. In terms of settings, the actions of each kid and how they are affected from not being under society's rule and from the island, to just how the kids are changing by the minute. Though that both of these materials are a bit different in terms of certain things, like "The 100" is taking place after a nuclear fallout that lasted more than 90 years, their reasoning for coming back to Earth was to make sure that, A it was safe to come back, and B that they can survive since they were starting to run out of resources very quickly. While in Lord of the Flies, it mainly took place during WWII. Plus the ages of the kids were both different, in Lord of the Flies is more of kids who aged 8-14, while in "The 100" its kids from 14-17. One interesting thing to note is that regardless of age, they both turned out to become very similar types of savages. Lord of the Flies & "The 100" both show the savage and barbaric side of human nature when the rules and structure of civilization are gone.
