@@ -222,7 +222,7 @@ it starts to show the decline of the kids. This is more apparent when the kids s
 #### Expanded Detail of text evidence
 
   Both of these quotes show an entire 180 degree turn in Jack's character as a result of the island, we get told that Jack was a high ranking kid at school who was the leader of their school's choir, which that one little detail gives us an insight that Jack wouldn't be able to do something like this and to this scale without the island affecting him.
-  This is more apparent when we look further into the story when Jack and the other savages are attacking the sow, even with this pig, both of the events are described in a way that start to shed the light onto the degration of the kids innocence, and identity.
+  This is more apparent when we look further into the story when Jack and the other savages are attacking the sow, even with this pig, both of the events are described in a way that start to shed the light onto the degradation of the kids innocence, and identity.
 
 ### Transition Sentence
 
@@ -230,7 +230,9 @@ it starts to show the decline of the kids. This is more apparent when the kids s
   The island does have an affect on these kids, but not as much as some other stuff is factored into this.
 
 # Topic Sentence of the ***Third*** body paragraph
+As it is seen in both materials, all kids are affected by the island and from being without society's rule, but the way each kid becomes a savage and succumbs to human's savage nature, affects each kid differently and take a different amount of time.
+
 
 # Concluding Paragraph
 
-It is evident that in both of the stories, that they both tell a very similar tale. In terms of settings, the actions of each kid and how they are affected from not being under society's rule and from the island, to just how the kids are changing by the minute. Though that both of these materials are a bit different in terms of certain things, like "The 100" is taking place after a nuclear fallout that lasted more than 90 years, their reasoning for coming back to Earth was to make sure that, A it was safe to come back, and B that they can survive since they were starting to run out of resources very quickly. While in Lord of the Flies, it mainly took place during WWII, which show that both stories took place either during or after a massive war. Lord of the Flies & "The 100" both show the savage and barbaric side of human nature when the rules and structure of civilization are gone.
+It is evident that in both of the stories, thmat they both tell a very similar tale. In terms of settings, the actions of each kid and how they are affected from not being under society's rule and from the island, to just how the kids are changing by the minute. Though that both of these materials are a bit different in terms of certain things, like "The 100" is taking place after a nuclear fallout that lasted more than 90 years, their reasoning for coming back to Earth was to make sure that, A it was safe to come back, and B that they can survive since they were starting to run out of resources very quickly. While in Lord of the Flies, it mainly took place during WWII. Plus the ages of the kids were both different, in Lord of the Flies is more of kids who aged 8-14, while in "The 100" its kids from 14-17. One interesting thing to note is that regardless of age, they both turned out to become very similar types of savages. Lord of the Flies & "The 100" both show the savage and barbaric side of human nature when the rules and structure of civilization are gone.
