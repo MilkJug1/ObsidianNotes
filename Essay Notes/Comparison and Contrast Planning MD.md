@@ -2,6 +2,24 @@
 
 Decided to type this out because I wanted to be actually able read them and use them. Uhh, its a bit messy here but after a while it should start getting a bit much better in terms of organizing stuff
 
+## Table of contents
+
+1. [Main Thesis](#comparison-and-contrasting-essay-notes)
+2. [Quotes](#quotes)
+3. [Main points](#main-points)
+4. [Topic sentence of 1st body paragraph](#topic-sentence-of-the-first-body-paragraph)
+
+- [Supporting Point #1 of 1st paragaraph](#supporting-detail--1)
+- [Supporting Point #2 of 1st paragraph](#supporting-detail--2)
+- [Text Evidence of #2 for 1st paragraph](#text-evidence-w-page-num)
+  - [Expanded detail of Text Evidence](#expanded-detail-of-text-evidence)
+- [Transition Sentence](#transition-sentence)
+
+5. [Body paragraph 2](#topic-sentence-of-the-second-body-paragraph)
+
+- [Supporting Point #1 of 2nd paragraph](#supporting-point-1)
+- [Text evidence(#)]
+
 - Organizational strategy is a bit of both block and point to point.
 - Main Thesis is:
    *LOTF & "The 100" both show the savage and barbaric side of human nature when the rules and structure of civilization are gone.*
@@ -269,8 +287,11 @@ As it is seen in both materials, all kids are affected by the island and from be
 - This quote shows that after Simon died, Ralph suffering mentally from that, and Piggy, the voice of reason and the most connected to Adult society, starting to downplay his death. Something that is unheard of Piggy to do, but shows that even he is starting to change and be affected from the island.
 As earlier we always saw that Piggy was one always unaffected from not being under society's rule, since he was always the one to focus on trying to get rescued, and because of this sudden change of character of him downplaying death of another peer, is bold since it shows that everyone, once not under the rule of society will start to change but its about how it changes them which is important.
 
-## Supporting point #2 for body para 3 
-- 
+## Supporting point #2 for body para 3
+
+- Regardless of age, all of the kids' outcome is the same, they all turn into a savage at one point or another.
+
+### Text evidence for point 2 of para 3
 
 # Concluding Paragraph
 
